@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/93052003/179660444-dad24d39-e5a0-41de-8e75-a25066ec56f1.png)
+![image](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif)
 
 <!--
 **whiterose333/whiterose333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

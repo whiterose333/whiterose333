@@ -1,5 +1,5 @@
-### Hi there 👋
-![image](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded.gif)
+### Hola 👋 , soy Sebastian y :heart: codear !
+![gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <!--
 **whiterose333/whiterose333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

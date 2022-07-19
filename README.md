@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/93052003/179660444-dad24d39-e5a0-41de-8e75-a25066ec56f1.png)
 
 <!--
 **whiterose333/whiterose333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
